@@ -5,7 +5,7 @@
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/e9gsrivastava/k2.git
+    https://github.com/e9gsrivastava/lesson033.git
     cd k2
     ```
 
